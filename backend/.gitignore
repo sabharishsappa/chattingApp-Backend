@@ -14,8 +14,6 @@ node_modules/
 # Build and configuration files
 /build/
 /public/build/
-/config/
-*.config.js
 
 # Package manager files
 npm-debug.log*
